@@ -1,0 +1,14 @@
+"use strict";
+exports.__esModule = true;
+var message = "Hello World, Jenhao";
+console.log(message);
+var x = 20;
+var y = 20;
+var z = 50;
+var aa;
+var bb = "Say hi";
+aa = "hi here";
+var isBeginner = true;
+var name = "Jenhao";
+var sentence = "My name is " + name + "\nI am a beginner in TS";
+console.log(sentence);
